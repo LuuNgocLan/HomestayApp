@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">HomeStay</string>
+    <string name="main_tab_discover">Discover</string>
+    <string name="main_tab_map">Map</string>
+    <string name="main_tab_favorite">Favorite</string>
+    <string name="main_tab_notification">Notification</string>
+    <string name="main_tab_profile">Profile</string>
 </resources>
