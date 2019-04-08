@@ -1,0 +1,1 @@
+include ':app', ':android_base_mvp', ':android_core_helper'
